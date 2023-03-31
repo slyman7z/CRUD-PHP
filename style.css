@@ -1,0 +1,24 @@
+form {
+  /* From https://css.glass */
+  background: rgba(173, 168, 168, 0.34);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(173, 168, 168, 0.3);
+}
+body {
+  background: url("don-b-4tjOxp1Qnyo-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+table{
+   /* From https://css.glass */
+   background: rgba(228, 123, 123, 0.34);
+   border-radius: 16px;
+   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+   backdrop-filter: blur(5px);
+   -webkit-backdrop-filter: blur(5px);
+   border: 1px solid rgba(173, 168, 168, 0.3);
+}
